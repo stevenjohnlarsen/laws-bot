@@ -12,5 +12,5 @@ wheels/
 # Secrets
 .env
 
-# ChromaDB (rebuilt on startup in production)
-chroma_db
+# ChromaDB excluded (commit the pre-built db instead)
+# chroma_db
